@@ -1,0 +1,19 @@
+{"time":"2025-03-18T01:02:51.093663+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_010251-cqml0xt2/logs/debug-core.log"}
+{"time":"2025-03-18T01:02:51.202151+09:00","level":"INFO","msg":"created new stream","id":"cqml0xt2"}
+{"time":"2025-03-18T01:02:51.202195+09:00","level":"INFO","msg":"stream: started","id":"cqml0xt2"}
+{"time":"2025-03-18T01:02:51.2022+09:00","level":"INFO","msg":"handler: started","stream_id":"cqml0xt2"}
+{"time":"2025-03-18T01:02:51.202211+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"cqml0xt2"}
+{"time":"2025-03-18T01:02:51.20222+09:00","level":"INFO","msg":"sender: started","stream_id":"cqml0xt2"}
+{"time":"2025-03-18T01:02:51.546567+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-18T01:03:12.659032+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-18T01:03:15.767182+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-18T01:03:15.893345+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-18T01:03:19.016516+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-18T01:03:22.803865+09:00","level":"INFO","msg":"stream: closing","id":"cqml0xt2"}
+{"time":"2025-03-18T01:03:22.80404+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-18T01:03:22.805735+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-18T01:03:23.741253+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-18T01:03:23.978939+09:00","level":"INFO","msg":"handler: closed","stream_id":"cqml0xt2"}
+{"time":"2025-03-18T01:03:23.978948+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cqml0xt2"}
+{"time":"2025-03-18T01:03:23.978963+09:00","level":"INFO","msg":"sender: closed","stream_id":"cqml0xt2"}
+{"time":"2025-03-18T01:03:23.979065+09:00","level":"INFO","msg":"stream: closed","id":"cqml0xt2"}

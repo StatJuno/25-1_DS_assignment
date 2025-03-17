@@ -1,0 +1,44 @@
+{
+  "os": "macOS-15.1-arm64-arm-64bit",
+  "python": "CPython 3.9.6",
+  "startedAt": "2025-03-17T16:02:51.092334Z",
+  "program": "/Users/junokim/25-1-DS-Week-1-Assignment/main.ipynb",
+  "codePath": "main.ipynb",
+  "git": {
+    "remote": "https://github.com/imsuviiix/25-1-DS-Week-1-Assignment.git",
+    "commit": "865d87c02014be935d593127519651b5bc951c5c"
+  },
+  "email": "cikciki98@yonsei.ac.kr",
+  "root": "/Users/junokim/25-1-DS-Week-1-Assignment",
+  "host": "gimjunhoui-MacBookPro-2.local",
+  "executable": "/Users/junokim/.local/share/virtualenvs/25-1-DS-Week-1-Assignment-w6Pb4Xuk/bin/python",
+  "codePathLocal": "main.ipynb",
+  "cpu_count": 12,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "141134364672"
+    },
+    "/System/Volumes/Data": {
+      "total": "494384795648",
+      "used": "141134364672"
+    }
+  },
+  "memory": {
+    "total": "25769803776"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 12
+  },
+  "apple": {
+    "name": "Apple M4 Pro",
+    "ecpuCores": 4,
+    "pcpuCores": 8,
+    "gpuCores": 16,
+    "memoryGb": 24,
+    "swapTotalBytes": "2147483648",
+    "ramTotalBytes": "25769803776"
+  }
+}

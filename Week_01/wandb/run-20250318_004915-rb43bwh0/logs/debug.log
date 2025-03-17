@@ -1,0 +1,62 @@
+2025-03-18 00:49:15,721 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_004915-rb43bwh0/logs/debug.log
+2025-03-18 00:49:15,721 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_004915-rb43bwh0/logs/debug-internal.log
+2025-03-18 00:49:15,721 INFO    MainThread:15207 [wandb_init.py:init():761] calling init triggers
+2025-03-18 00:49:15,722 INFO    MainThread:15207 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-18 00:49:15,722 INFO    MainThread:15207 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-18 00:49:15,848 INFO    MainThread:15207 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-18 00:49:15,848 INFO    MainThread:15207 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-18 00:50:54,317 INFO    MainThread:15207 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-18 00:50:54,322 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005054-3opnpvev/logs/debug.log
+2025-03-18 00:50:54,322 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005054-3opnpvev/logs/debug-internal.log
+2025-03-18 00:50:54,322 INFO    MainThread:15207 [wandb_init.py:init():761] calling init triggers
+2025-03-18 00:50:54,322 INFO    MainThread:15207 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-18 00:50:54,322 INFO    MainThread:15207 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-18 00:50:54,377 INFO    MainThread:15207 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-18 00:50:54,377 INFO    MainThread:15207 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-18 00:50:57,729 INFO    MainThread:15207 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-18 00:50:57,737 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005057-uvpxsb2q/logs/debug.log
+2025-03-18 00:50:57,738 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005057-uvpxsb2q/logs/debug-internal.log
+2025-03-18 00:50:57,738 INFO    MainThread:15207 [wandb_init.py:init():761] calling init triggers
+2025-03-18 00:50:57,738 INFO    MainThread:15207 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-18 00:50:57,739 INFO    MainThread:15207 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-18 00:50:57,801 INFO    MainThread:15207 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-18 00:50:57,802 INFO    MainThread:15207 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-18 00:50:58,274 INFO    MainThread:15207 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-18 00:50:58,280 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005058-g97hv745/logs/debug.log
+2025-03-18 00:50:58,280 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005058-g97hv745/logs/debug-internal.log
+2025-03-18 00:50:58,280 INFO    MainThread:15207 [wandb_init.py:init():761] calling init triggers
+2025-03-18 00:50:58,280 INFO    MainThread:15207 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-18 00:50:58,280 INFO    MainThread:15207 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-18 00:50:58,338 INFO    MainThread:15207 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-18 00:50:58,339 INFO    MainThread:15207 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-18 00:50:59,571 INFO    MainThread:15207 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-18 00:50:59,577 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005059-1yfrgu0h/logs/debug.log
+2025-03-18 00:50:59,577 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005059-1yfrgu0h/logs/debug-internal.log
+2025-03-18 00:50:59,577 INFO    MainThread:15207 [wandb_init.py:init():761] calling init triggers
+2025-03-18 00:50:59,577 INFO    MainThread:15207 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-18 00:50:59,578 INFO    MainThread:15207 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-18 00:50:59,635 INFO    MainThread:15207 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-18 00:50:59,635 INFO    MainThread:15207 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-18 00:57:56,061 INFO    MainThread:15207 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-18 00:57:56,066 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005756-famdii7a/logs/debug.log
+2025-03-18 00:57:56,066 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005756-famdii7a/logs/debug-internal.log
+2025-03-18 00:57:56,066 INFO    MainThread:15207 [wandb_init.py:init():761] calling init triggers
+2025-03-18 00:57:56,067 INFO    MainThread:15207 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-18 00:57:56,067 INFO    MainThread:15207 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-18 00:57:56,124 INFO    MainThread:15207 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-18 00:57:56,124 INFO    MainThread:15207 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-18 00:59:16,793 INFO    MainThread:15207 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-18 00:59:16,801 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005916-dzpu6icr/logs/debug.log
+2025-03-18 00:59:16,801 INFO    MainThread:15207 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/junokim/25-1-DS-Week-1-Assignment/wandb/run-20250318_005916-dzpu6icr/logs/debug-internal.log
+2025-03-18 00:59:16,801 INFO    MainThread:15207 [wandb_init.py:init():761] calling init triggers
+2025-03-18 00:59:16,801 INFO    MainThread:15207 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-18 00:59:16,801 INFO    MainThread:15207 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-18 00:59:16,859 INFO    MainThread:15207 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-18 00:59:16,859 INFO    MainThread:15207 [wandb_init.py:_pause_backend():564] pausing backend
