@@ -1,0 +1,1375 @@
+Q: What is necessary for learning by yourself?
+Options:
+(A) exposure
+(B) patience
+(C) study
+(D) cooperation
+(E) thought
+A: 1) learning and study are very similar, and both choices are answers, so rule them out.
+2) cooperation would make this sound like learning is a group activity.
+3) exposure is a synonym for knowledge, and thought is just another way of saying thinking.
+Therefore, the answer is study (C).
+<|end_of_text|>
+
+Q: What state south of Kentucky and north of Alabama will you find people playing the fiddle?
+Options:
+(A) alabama
+(B) tennessee
+(C) violin case
+(D) music store
+(E) bow and strings
+A:  The answer should be a place where you might find someone playing a fiddle. The southern part of Tennessee is where you would find people playing the fiddle. Therefore, the answer is Tennessee (B).
+<|end_of_text|>
+
+Q: Where do you put your grapes just before checking out?
+Options:
+(A) mouth
+(B) grocery cart
+(C) super market
+(D) fruit basket
+(E) fruit market
+A: 3
+A: The answer should be the place where grocery items are placed before checking out. Of the above choices, grocery cart makes the most sense for holding grocery items. Therefore, the answer is grocery cart (B).
+<|end_of_text|>
+
+Q: A beaver can destroy a machines functionality if they build their dam in this?
+Options:
+(A) strip club
+(B) pocket
+(C) millpond
+(D) ontario
+(E) lake or river
+A:  The answer should be a place where a dam could destroy a machine. If a beaver builds a dam near a machine, then the machine is destroyed. A millpond is where water power is used to run a mill, so it makes sense that a dam could destroy a machine there. Therefore, the answer is millpond (C).
+<|end_of_text|>
+
+Q: What enables most people to transport themselves?
+Options:
+(A) helicopter
+(B) own cars
+(C) speak words
+(D) believe in god
+(E) dance together
+A:  The answer must be what enables people to move themselves. Cars are what enable people to move themselves. Therefore, the answer is own cars (B).
+<|end_of_text|>
+
+Q: Where could you see an advertisement while reading news?
+Options:
+(A) television
+(B) bus
+(C) email
+(D) web page
+(E) la ville
+A:  The answer must be a place where you see advertisements. The most obvious answer is the internet, where many advertisements are found on websites and search engine result pages. Therefore, the answer is web page (D).
+<|end_of_text|>
+
+Q: The student needed to  get some new pencils, where did he go?
+Options:
+(A) store
+(B) classroom
+(C) backpack
+(D) cabinet
+(E) teacher
+A:  The answer should be the place that the student was sent to get pencils. In this case, the store is the only answer choice that does not match. Therefore, the answer is store (A).
+<|end_of_text|>
+
+Q: John came to see Sam and Sam kicked him out.  Sam didn't like company.  He prefered what?
+Options:
+(A) you
+(B) abbreviation
+(C) solitude
+(D) loneliness
+(E) alone
+A:  The answer should be John's reason for leaving. John was kicked out by Sam, who did not like company. Sam preferred solitude (C).
+<|end_of_text|>
+
+Q: Sean was lying about the body, but he was very scared.  He constantly worried about what?
+Options:
+(A) the reward money
+(B) hurt feelings
+(C) being found out
+(D) problems
+(E) trouble
+A:  The answer must be what Sean would be worried about. He would be very scared to be found out about his crime. Therefore, the answer is being found out (C).
+<|end_of_text|>
+
+Q: There weren't potatoes but actually a snake in his what?
+Options:
+(A) burlap sack
+(B) hot country
+(C) purse
+(D) pet shops
+(E) deep grass
+A:  A  is used for hiding snakes. Therefore, the answer is burlap sack (A).
+<|end_of_text|>
+
+Q: Where are people likely to find food?
+Options:
+(A) opera
+(B) supermarket
+(C) building
+(D) conference
+(E) apartment
+A: 1. A building would not usually have food in it. People go to a building for work or school.
+2. It is unlikely for a conference to have food in it.
+3. Food is not likely to be in an opera.
+4. The answer must be where people would go for food. Supermarkets are the best place for this. Therefore, the answer is supermarket (B).
+<|end_of_text|>
+
+Q: What is a good result of jogging?
+Options:
+(A) insect repellent
+(B) heart attacks
+(C) improved health
+(D) shin splints
+(E) being tired
+A:  The answer should be the most desirable result of jogging. Improved health is the best answer. It is desirable to be healthy. Therefore, the answer is improved health (C).
+<|end_of_text|>
+
+Q: Bob's feet hurt from running barefoot on the hot pavement.  I lost his shoes, didn't know where they landed, and had to run from the corner store to his home.  About where did he run?
+Options:
+(A) a bed of nails
+(B) town
+(C) attractive consistent look
+(D) city block
+(E) ground
+A:  The answer should be a place with a lot of hot pavement. Town, city block and the ground make good sense. However, if someone is running for their life, they wouldn't be concerned with their attractive consistent look, or a bed of nails. Therefore, the answer is city block (D).
+<|end_of_text|>
+
+Q: What state is the John Davis  Lodge toll road found in?
+Options:
+(A) new jersey
+(B) eastern united states
+(C) good repair
+(D) connecticut
+(E) arizona
+A:  The answer must be a state, as the name of a toll road is the answer. The John Davis  Lodge toll road is located in Connecticut. Therefore, the answer is Connecticut (D).
+<|end_of_text|>
+
+Q: He was receiving workman's compensation, he had tripped over a metal rod while building where?
+Options:
+(A) factory
+(B) construction site
+(C) engine
+(D) insides of skyscraper's walls
+(E) shops
+A: 2 of the answer choices involve work. Of those, 1 is construction (B), while 1 is factory (A). Since we are looking for the site where a worker was injured, the answer must be a site where people work. Therefore, the answer is construction site (B).
+<|end_of_text|>
+
+Q: Bill is stuck in marsh when a man comes up to him peaking Cajun, where is he?
+Options:
+(A) low lands
+(B) new york
+(C) forest
+(D) louisiana
+(E) everglades
+A:  The answer should be a place that a Cajun speaker would be familiar with. If Bill has Cajun roots, he is likely to be familiar with the Cajun culture. Louisiana is where the Cajun people are from. Therefore, the answer is louisiana (D).
+<|end_of_text|>
+
+Q: Where could a fungus grow and not be disturbed by sunlight?
+Options:
+(A) under rocks
+(B) manhattan
+(C) toenails
+(D) grocery store
+(E) fallen tree
+A:  The answer must be a place where sunlight would not disturb a fungus. Under rocks and fallen trees would not be disturbed by sunlight. Therefore, the answer is under rocks (A).
+<|end_of_text|>
+
+Q: What do people use to absorb extra ink from a fountain pen?
+Options:
+(A) shirt pocket
+(B) calligrapher's hand
+(C) inkwell
+(D) desk drawer
+(E) blotter
+A:  The answer must be used to absorb extra ink. Blotters are designed to absorb liquids. Therefore, the answer is blotter (E).
+<|end_of_text|>
+
+Q: To prevent any glare during the big football game he made sure to clean the dust of his what?
+Options:
+(A) television
+(B) attic
+(C) corner
+(D) they cannot clean corner and library during football match they cannot need that
+(E) ground
+A: 1. The answer must be something which prevents glare, glare could be caused by dust. 2. Dust could be cleaned with a vacuum. 3. The answer must be something that could be cleaned with a vacuum. 4. The answer should be the surface of the television. If the answer were "ground", it wouldn't fit the 2nd sentence of the question. Therefore, the answer is television (A).
+<|end_of_text|>
+
+Q: How do geese normally get from place to place?
+Options:
+(A) carried by people
+(B) guard house
+(C) fly
+(D) follow ultralight airplane
+(E) group together
+A:  The answer must be a way to get from place to place. They fly, so the answer is fly (C).
+<|end_of_text|>
+
+Q: Learning languages is difficult.  Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?,
+Options:
+(A) better communication
+(B) overthinking
+(C) frustration
+(D) misunderstandings
+(E) headaches
+A:  The answer should be the result of making mistakes when learning a language. The correct answer here is frustration (C).
+<|end_of_text|>
+
+Q: The game promised it was free, but the child's parents soon found themselves doing what for microtransactions?
+Options:
+(A) costly
+(B) captive
+(C) contained
+(D) paying
+(E) caught
+A:  The answer must be what the child's parents were forced to do for microtransactions. Microtransactions are a type of transaction where the price is hidden behind a "free" game. Therefore, the answer is paying (D).
+<|end_of_text|>
+
+Q: What is the hope of playing sports without competition?
+Options:
+(A) running
+(B) have fun
+(C) balls touch
+(D) winning
+(E) get tired
+A:  The answer should be the purpose of playing sports. Playing sports is enjoyable. Therefore, the answer is have fun (B).
+<|end_of_text|>
+
+Q: He had done a great job with the scary decorations, they were completely what?
+Options:
+(A) terrible
+(B) little
+(C) halloween
+(D) small
+(E) horrible
+A:  The answer must be a feeling that would make you feel proud. The decorations were scary. However, they made the man proud. Therefore, the answer is horrible (E).
+<|end_of_text|>
+
+Q: What emotion does getting paid lead to?
+Options:
+(A) sorrow
+(B) paying bills
+(C) happiness
+(D) frustration
+(E) spending money
+A:  The answer must be what emotion one feels after getting paid. Happiness is a good choice. Therefore, the answer is happiness (C).
+<|end_of_text|>
+
+Q: Who was the head of the branch yelling at?
+Options:
+(A) owner
+(B) foot
+(C) subordinate
+(D) base
+(E) point
+A: 4th sentence: "And as it turned out, she was the one in charge." The answer should be the person who is in charge of a branch. The bank is a company and the owner is not necessarily the person who is in charge. The manager is the person who is in charge. Therefore, the answer is manager (C).
+<|end_of_text|>
+
+Q: The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?
+Options:
+(A) carpet
+(B) refrigerator
+(C) breadbox
+(D) fridge
+(E) coach
+A:  The answer must be the place where leftovers are stored. Of the given options, the refrigerator (B) makes the most sense as a place where food is stored. Therefore, the answer is refrigerator (B).
+<|end_of_text|>
+
+Q: Where is likely to have a lot of fire extinguishers?
+Options:
+(A) garage
+(B) hospital
+(C) boat
+(D) house
+(E) doll house
+A: 2 of the above choices are places where fire extinguishers are likely to be. Houses and hospitals have fire extinguishers for safety reasons. Therefore, the answer is either house (D) or hospital (B).
+<|end_of_text|>
+
+Q: She was sick and staying in bed the day of the event, unfortunately this meant she was what?
+Options:
+(A) resting
+(B) sleep more
+(C) bed sores
+(D) missing out
+(E) comfort
+A: 1. The answer must be a reason why someone would be upset because they are sick. 2. Sick people should not be able to attend social events.
+Therefore, the answer is missing out (D).
+<|end_of_text|>
+
+Q: Stanley had a dream that was very vivid and scary. He had trouble telling it from what?
+Options:
+(A) reality
+(B) imagination
+(C) dreamworker
+(D) nightmare
+(E) awake
+A:  The answer must be a state that Stanley could be in. Dreamworker and nightmare can be ruled out as being incorrect states because they are not states of being. The answer is reality (A).
+<|end_of_text|>
+
+Q: Where would there be many people sitting in chair and listening to religious speech?
+Options:
+(A) auditorium
+(B) office
+(C) synagogue
+(D) confession
+(E) church
+A:  The answer should be a place where people would be sitting in chairs, listening to a religious person speak. Synagogues are places where people worship, and people tend to sit in chairs during religious services. Therefore, the answer is synagogue (C).
+<|end_of_text|>
+
+Q: John loved competing because he was very competitive.  He liked being about to divide people into what categories?
+Options:
+(A) winners and losers
+(B) perform better
+(C) might win
+(D) losses
+(E) enemies
+A:  The answer must be a type of people. The answer can't be a noun. There is no way to use John's statement to determine what category of people he was referring to. Therefore, the answer is winners and losers (A).
+<|end_of_text|>
+
+Q: Where is a fox likely to be caught?
+Options:
+(A) tennessee
+(B) inside joke
+(C) grassy field
+(D) the forrest
+(E) england
+A: 1 The answer should be an appropriate place to catch a fox. Grass is a type of field, which is a grassy area. Therefore, the answer is grassy field (C).
+<|end_of_text|>
+
+Q: James felt himself losing consciousness.  He was frightened.  He didn't want this.  He was scared of what?
+Options:
+(A) death
+(B) coma
+(C) peace
+(D) forgetfulness
+(E) loss of life
+A:  The answer must be the thing that made James afraid. Coma and loss of life both make good sense, but death makes more sense because that's what James was afraid of. Therefore, the answer is death (A).
+<|end_of_text|>
+
+Q: Sam went to Paris where he ordered a blowfish at a sushi place.  Where was Sam?
+Options:
+(A) books
+(B) france
+(C) fish market
+(D) atlantic ocean
+(E) cuba
+A:  The answer must be the place from which the answer came. Therefore, the answer is France (B).
+<|end_of_text|>
+
+Q: Where do you buy tickets at a ticket booth for games/
+Options:
+(A) train station
+(B) cathedral
+(C) metro station
+(D) fairgrounds
+(E) amusement park
+A:  The answer should be a place where you buy tickets to games. Of the given choices, fairgrounds make the most sense for selling tickets. Therefore, the answer is fairgrounds (D).
+<|end_of_text|>
+
+Q: The people in class were instructed to brainstorm ideas, how would they use their minds for this?
+Options:
+(A) shake hands
+(B) control events
+(C) talk to each other
+(D) think creatively
+(E) dress themselves
+A:  The answer must be a brainstorming technique. Thinking creatively is one of the things that brainstorming is used for. Therefore, the answer is think creatively (D).
+<|end_of_text|>
+
+Q: The sensor would just the distance then set off an alarm, the installation expert explained it was called a what kind of sensor?
+Options:
+(A) near
+(B) closeness
+(C) here
+(D) proximity
+(E) this
+A:  The answer must be a sensor which would be triggered when it senses its distance being near the alarm, which in this case is 20 feet. The answer, therefore, is proximity sensor (D).
+<|end_of_text|>
+
+Q: After his mother saw his report card he knew he was going to be doing housework, what could have prevented this?
+Options:
+(A) sneezing
+(B) fatigue
+(C) house clean
+(D) feeling satisfied
+(E) getting good grades
+A:  The answer must be something that would prevent the boy from doing housework, which he would do in order to receive good grades. The best choice, then, is getting good grades (E).
+<|end_of_text|>
+
+Q: What is a person who is well educated?
+Options:
+(A) illiterate
+(B) knowledgable
+(C) own house
+(D) have enough food
+(E) meet expectations
+A:  The answer should be someone who is knowledgeable and well educated. A person who knows a lot is both knowledgeable and well educated. Therefore, the answer is knowledgeable (B).
+<|end_of_text|>
+
+Q: What is someone who gets angry after getting drunk likely to participate in?
+Options:
+(A) violence
+(B) falling down
+(C) vomiting
+(D) vomiting
+(E) lower standards
+A: 1) A drunk person's judgment is often impaired, which can lead to participating in violence. 2) People who drink too much alcohol often become violent when they get angry. Therefore, the answer is violence (A).
+<|end_of_text|>
+
+Q: I'm looking for alcohol and fried foods, any suggestions?
+Options:
+(A) pub
+(B) plane
+(C) beer
+(D) store
+(E) fraternity house
+A:  The answer should be the kind of place that serves alcohol. In this case, the answer is pub (A).
+<|end_of_text|>
+
+Q: Where are people likely to stand at an intersection?
+Options:
+(A) cars
+(B) city street
+(C) street corner
+(D) fork in road
+(E) at a red light
+A:  The answer should be a place where people are likely to stand when they cross the street. An intersection is the point where two streets come together. At an intersection, people are likely to wait for a walk signal before crossing the street. Therefore, the answer is street corner (C).
+<|end_of_text|>
+
+Q: John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad.  He would be unable to hold his tools if he injured what?
+Options:
+(A) hostility
+(B) anger
+(C) nose
+(D) fists
+(E) hands
+A:  The answer must be a part of John that he could not use with blood on it. Hands and fists are too general. Therefore, the answer is hands (E).
+<|end_of_text|>
+
+Q: Glass that hasn't been treated to be extra strong is what?
+Options:
+(A) weak
+(B) fragile
+(C) forceless
+(D) regular
+(E) flimsy
+A:  The answer must be a synonym for flimsy, or things which are flimsy. Regular, weak, and forceless aren't synonyms for flimsy. Therefore, the answer is fragile (B).
+<|end_of_text|>
+
+Q: The teacher told all the students that listening was key, it was the main way they would gain what?
+Options:
+(A) empathy
+(B) anxiety
+(C) knowlege
+(D) falling down
+(E) hear things
+A:  The answer should be something you learn or gain. Empathy and knowlege are things that you can gain from listening. Therefore, the answer is knowlege (C).
+<|end_of_text|>
+
+Q: What is a good result of losing weight?
+Options:
+(A) increased energy
+(B) healthier
+(C) loose skin
+(D) beauty
+(E) death
+A: 2 and 3 fit this question. However, answer 2 is a better result than 3, and it also fits the question more. Therefore, the answer is healthier (B).
+<|end_of_text|>
+
+Q: A soccer field that is not contained in a building would be where?
+Options:
+(A) playground
+(B) mexico
+(C) town
+(D) outside
+(E) world cup
+A:  The answer must be somewhere outside. Soccer fields usually are located outside. Therefore, the answer is outside (D).
+<|end_of_text|>
+
+Q: What is it called when you slowly cook using a grill?
+Options:
+(A) backyard
+(B) restaurant
+(C) crockpot
+(D) neighbor's house
+(E) barbeque
+A: 1) Answer choices that make sense for crockpot can be eliminated. 2) Answer choices that do not make sense for backyard or neighbor's house can be eliminated. 3) Answer choices that do not make sense for barbeque can be eliminated. 4) That leaves barbeque (E) as the answer.
+<|end_of_text|>
+
+Q: What could prevent someone from buying chistmas presents?
+Options:
+(A) happiness
+(B) lack of money
+(C) stress
+(D) relief
+(E) exhiliration
+A:  The answer must prevent someone from buying Christmas presents. Stress does, but it does not explain why. Therefore, the answer is lack of money (B).
+<|end_of_text|>
+
+Q: The body guard was good at his duties, he made the person who hired him what?
+Options:
+(A) better job
+(B) irritated
+(C) feel safe
+(D) save money
+(E) headache
+A:  The answer should make someone who hired a body guard feel good about it. The answer body guard should do its job well, so it makes people feel safe. Therefore, the answer is C.
+<|end_of_text|>
+
+Q: The man uses grooming before a job interview, what is he trying to portray?
+Options:
+(A) looking good
+(B) beauty
+(C) tardiness
+(D) handsomeness
+(E) neatness
+A:  The answer should be something which will make a person look nice, clean, and put together. It should also be something that will show off one's good grooming. All of the options fit these criteria, but the best answer is neatness (E).<|end_of_text|>
+
+Q: They were getting together for the big game, he wasn't hosting but made sure to bring pretty of food with him over to where?
+Options:
+(A) picnic
+(B) friend's house
+(C) table
+(D) space shuttle
+(E) fairgrounds
+A:  The answer must be the place where someone would have the big game. The big game is the Super Bowl. Since the game will be held at a friend's house, the friend's house is where someone would have the big game (B). 
+<|end_of_text|>
+
+Q: Where would someone learn to play an upright piano?
+Options:
+(A) music room
+(B) music store
+(C) music class
+(D) medium
+(E) house
+A:  A pianist's piano is called an upright piano. People who are learning how to play the piano would learn in a music class. Therefore, the answer is music class (C).
+<|end_of_text|>
+
+Q: Where do kids find fish in their backyards?
+Options:
+(A) boat
+(B) ocean
+(C) pond
+(D) end of line
+(E) ocean
+A:  The answer must be where kids are likely to find fish in their backyards. Kids are not likely to go fishing in a pond, so the answer is not pond (C). Kids are likely to find fish in a pond or in the ocean. Therefore, the answer is ocean (B) or pond (C).
+<|end_of_text|>
+
+Q: What could a massive building be if it is not constructed well?
+Options:
+(A) insubstantial
+(B) massless
+(C) dwarf
+(D) inconsequential
+(E) good
+A:  The answer must be the opposite of the word constructed. If a massive building is constructed poorly, then it is not constructed well. Therefore, the answer is not constructed well (A).
+<|end_of_text|>
+
+Q: Where can meat last a long time?
+Options:
+(A) backery
+(B) ham sandwich
+(C) fridge
+(D) butcher shop
+(E) freezer
+A:  The answer should be a place which keeps meat fresh. Of the above choices, the freezer is the place that would keep the meat fresh. Therefore, the answer is freezer (E).
+<|end_of_text|>
+
+Q: How can one's views change after learning about science?
+Options:
+(A) appreciation of nature
+(B) become educated
+(C) excitement
+(D) increased knowledge
+(E) see things differently
+A:  The answer should be something that would lead to someone having changed views. When one learns something new, such as science, they might be enlightened and have different views than before. Therefore, the answer is see things differently (E).
+<|end_of_text|>
+
+Q: If you want to make a big splash in a river with a rock, from where should you throw it?
+Options:
+(A) mountains countryside
+(B) ground
+(C) bridge
+(D) mountain range
+(E) surface of earth
+A: 3) The answer must be somewhere from where a rock can hit water with enough force to make a big splash. The bridge seems to be the best choice. Therefore, the answer is bridge (C).
+<|end_of_text|>
+
+Q: You can hear testimony of how spirituality changes lives when you do what?
+Options:
+(A) go to church
+(B) appear in court
+(C) watch soap operas
+(D) paying attention
+(E) go into court
+A:  The answer should be a reason for one to listen to someone else's testimony. One hears testimonies of people's changed lives when one goes to church. Therefore, the answer is church (A).
+<|end_of_text|>
+
+Q: It was a great rest, she had never felt this much what in the morning?
+Options:
+(A) active
+(B) hunger
+(C) in motion
+(D) wakefulness
+(E) lay down
+A:  The answer must be what someone does in the morning, so answer D.
+<|end_of_text|>
+
+Q: If somebody likes temperatures cool, they might have more than one electric fan where?
+Options:
+(A) home
+(B) hardware store
+(C) home
+(D) hot room
+(E) office
+A:  The answer must be a place that is cool. Homes, by definition, are cool. Therefore, the answer is home (A).
+<|end_of_text|>
+
+Q: James complained that Alexa's electric guitar was too loud and he couldn't get any work done at home,  so she decided that she should get an acoustic guitar.  Where might she look for one?
+Options:
+(A) house
+(B) music shop
+(C) studio
+(D) storage
+(E) closet
+A:  The answer should be a place where James would go to find an acoustic guitar. If James wants an acoustic guitar, he might go to a music shop. Therefore, the answer is music shop (B).
+<|end_of_text|>
+
+Q: WHat leads to someone's death when they are very depressed?
+Options:
+(A) suicide
+(B) overdosing
+(C) sadness
+(D) murder
+(E) cyanide
+A:  The answer should be a reason why someone who is very depressed might commit suicide. Suicide is the answer. Therefore, the answer is suicide (A).
+<|end_of_text|>
+
+Q: She loved buying products, she was driven by her what to shop more than any practical needs?
+Options:
+(A) desire
+(B) money
+(C) time
+(D) credit
+(E) spending money
+A:  The answer should be the reason for buying the products. The answer is desire (A).
+<|end_of_text|>
+
+Q: What might you feel after doing housework for hours?
+Options:
+(A) anger
+(B) not boredom
+(C) stress
+(D) boredom
+(E) anxiety
+A:  The answer should be something that people experience after doing housework for a long time. A good candidate is stress, since many people are already stressed out by their jobs and then go home to do housework. Therefore, the answer is stress (C).
+<|end_of_text|>
+
+Q: If you did well on the test, you might get an A as a what?
+Options:
+(A) see work
+(B) practice
+(C) quiz
+(D) school grade
+(E) homework
+A:  The answer must be the highest score possible on a test. An A is the highest score possible in school. Therefore, the answer is school grade (D).
+<|end_of_text|>
+
+Q: Where is a bald eagle safe?
+Options:
+(A) pine tree
+(B) open country
+(C) in washington
+(D) wildlife refuge
+(E) sky
+A:  The answer must be a place where a bald eagle could be safe from danger. Wildlife refuges and national forests are protected lands where animals like bald eagles can be safe from human danger. Therefore, the answer is wildlife refuge (D).
+<|end_of_text|>
+
+Q: Where would you expect to find a pizzeria while shopping?
+Options:
+(A) chicago
+(B) street
+(C) little italy
+(D) food court
+(E) capital cities
+A:  The answer must be a place where you would expect to find a pizzeria. A food court, which is an area with many food vendors, would be the best choice. Therefore, the answer is food court (D).
+<|end_of_text|>
+
+Q: The accountant used a calculator regularly, he kept one at home and one at the what?
+Options:
+(A) desk drawer
+(B) desktop
+(C) office
+(D) wristwatch
+(E) city hall
+A:  The answer must be the place where the accountant spends most of his or her time, which is work. The office is where the accountant spends most of his time. Therefore, the answer is office (C).
+<|end_of_text|>
+
+Q: Google Maps and other highway and street GPS services have replaced what?
+Options:
+(A) united states
+(B) mexico
+(C) countryside
+(D) atlas
+(E) oceans
+A:  The answer must be something that used to do what Google Maps and GPS services do, which is give directions. Atlases were also used to give directions. Therefore, the answer is atlas (D).
+<|end_of_text|>
+
+Q: Where would you see people in uniform playing with a ball?
+Options:
+(A) hole
+(B) television
+(C) sporting goods store
+(D) pool table
+(E) sporting event
+A:  The answer must be a place where people who are dressed in uniforms and are playing a ball game can be seen. A sporting event is one place to do this. Therefore, the answer is sporting event (E).
+<|end_of_text|>
+
+Q: Too many people want exotic snakes.  The demand is driving what to carry them?
+Options:
+(A) ditch
+(B) shop
+(C) north america
+(D) pet shops
+(E) outdoors
+A:  The answer should be something that could possibly drive demand for exotic snakes. The answer does not say why demand is driving this to carry exotic snakes, so it could be anything. The only thing that is mentioned about the snake is the demand. Therefore, the answer is demand (D).
+<|end_of_text|>
+
+Q: What is a mobile launching platform found in the ocean?
+Options:
+(A) launch pad
+(B) circus
+(C) aircraft carrier
+(D) large open area
+(E) space station
+A:  The answer should be a type of platform found in the ocean. Aircraft carriers are mobile platforms. Therefore, the answer is aircraft carrier (C).
+<|end_of_text|>
+
+Q: John and Jane were a couple.  They were dating for a while and wanted to be together for even longer. For this reason, they did what?
+Options:
+(A) make sex
+(B) plan to marry
+(C) dance
+(D) electrical circuit
+(E) row about
+A:  The answer must describe what John and Jane did in order to stay together. To get together longer, they need to marry. Therefore, the answer is plan to marry (B).
+<|end_of_text|>
+
+Q: What might a kid do with his friend before going to play?
+Options:
+(A) laugh
+(B) sit
+(C) being entertained
+(D) math
+(E) meet
+A: 7-9 choices are correct and are all possible actions that a kid could do with a friend before playing. Therefore, the answer is a multiple choice answer: sit (B), laugh (A), being entertained (C), and meet (E).
+<|end_of_text|>
+
+Q: What is a characteristic of thin glass?
+Options:
+(A) break easily
+(B) shattering
+(C) melt
+(D) bend
+(E) hold water
+A: 1. The answer must be a characteristic of thin glass. 2. Thin glass breaks easily. Therefore, the answer is break easily (A).
+<|end_of_text|>
+
+Q: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?
+Options:
+(A) ignore
+(B) enforce
+(C) authoritarian
+(D) yell at
+(E) avoid
+A:  The answer must be a reason that the school's efforts to change are a punishment. The sanctions against the school ignored the efforts the school had made to change. Therefore, the answer is ignore (A).
+<|end_of_text|>
+
+Q: Where would you find a bee gathering pollen?
+Options:
+(A) united states
+(B) sky
+(C) court
+(D) field of flowers
+(E) orchard
+A:  The answer should be a place with pollen. Flowers have a lot of pollen. Therefore, the answer is field of flowers (D).
+<|end_of_text|>
+
+Q: The fox walked from the city into the forest, what was it looking for?
+Options:
+(A) pretty flowers.
+(B) hen house
+(C) natural habitat
+(D) storybook
+(E) dense forest
+A:  The answer must be a reason for a fox to go into the forest.  The forest is a fox's natural habitat.  Therefore, the answer is natural habitat (C).
+<|end_of_text|>
+
+Q: Though he could've kept going his body appreciated the rest, it had been constantly what during the day?
+Options:
+(A) walk
+(B) lay down
+(C) working
+(D) moving
+(E) exercise
+A:  The answer should be the last thing the body was doing before resting. Moving is the last thing the body does when resting, so it should be the correct answer. Therefore, the answer is moving (D).
+<|end_of_text|>
+
+Q: Where would you put a folding chair if you do not plan to use it and you do not have any large doors in your house?
+Options:
+(A) roof
+(B) school
+(C) beach
+(D) closet
+(E) garage
+A:  The answer should be a place where folding chairs do not go to begin with. The only place above that is a closet. Therefore, the answer is closet (D).
+<|end_of_text|>
+
+Q: Someone lacking immortality will one day be?
+Options:
+(A) kick the bucket
+(B) mortal
+(C) dead
+(D) can die
+(E) dying
+A:  The answer should be a way of saying someone lacks immortality. If someone lacks immortality, then they will one day die. Therefore, the answer is dead (C).
+<|end_of_text|>
+
+Q: Jame's bare feet were burned as he walked, because the sunshine had made the surface hot.  Where might he have been?
+Options:
+(A) disneyland
+(B) snow
+(C) windowsill
+(D) street
+(E) summer
+A:  The answer should be a place where the sun shines in. Sunlight makes the surface hot. Therefore, the answer is the street (D).
+<|end_of_text|>
+
+Q: What is committing perjury likely to lead to?
+Options:
+(A) shame
+(B) arrest
+(C) embarrassment
+(D) go to jail
+(E) tension
+A:  The answer should be a serious consequence of committing perjury. If one commits perjury, it is likely to result in an arrest. Therefore, the answer is arrest (B).
+<|end_of_text|>
+
+Q: The city's community garden was demolished for yet another what?
+Options:
+(A) wasteland
+(B) ocean
+(C) desert
+(D) parking lot
+(E) flowers
+A:  The answer must be a place where something is demolished, and where the garden once was. It doesn't matter what was there, it only matters what is there now. Therefore, the answer is parking lot (D).
+<|end_of_text|>
+
+Q: Sarah wanted to by a new rug.  Ink spilled onto her old one.  Really, she didn't know what that thing had an inkwell in the first place.  What piece of furniture might have been on her run?
+Options:
+(A) front of door
+(B) bedroom
+(C) desk
+(D) table
+(E) living room
+A:  The answer should be a room with a table. If ink spilled onto a rug, the ink probably came from a fountain pen. Since fountain pens are often used at desks, this must be the room with the desk. Therefore, the answer is desk (C).
+<|end_of_text|>
+
+Q: You can share files with someone if you have a connection to a what?
+Options:
+(A) freeway
+(B) radio
+(C) wires
+(D) computer network
+(E) electrical circuit
+A: 3rd grade. The answer must be something you can use to connect with someone. A computer network would work. It is where files can be shared with other people. Therefore, the answer is computer network (D).
+<|end_of_text|>
+
+Q: Joe suffered many consequences from stabbing a stranger to death.   Among them, the family of the victim did something to him. What was that?
+Options:
+(A) knife wounds
+(B) buy a gun
+(C) bleeding
+(D) jail time
+(E) law suit
+A:  The answer must be one of the consequences of stabbing a stranger to death. If the family of the victim files a law suit, that is one of the consequences of the stabbing. Therefore, the answer is law suit (E).
+<|end_of_text|>
+
+Q: The accelerator was controller via a hand throttle, and the foot pedals controlled the steering in the small what?
+Options:
+(A) car
+(B) fuel system
+(C) accelerate
+(D) boat
+(E) airplane
+A:  The answer must be a large, non-mechanical object. Small cars, like small boats and airplanes, do not require a throttle or foot pedals to control steering. Therefore, the answer is aircraft (E).
+<|end_of_text|>
+
+Q: Of all the rooms in a house it was his favorite, the aromas always drew him to the what?
+Options:
+(A) yard
+(B) basement
+(C) kitchen
+(D) living room
+(E) garden
+A:  The answer must be the place with all the cooking smells. Because all the cooking smells are in the kitchen, the answer is kitchen (C).
+<|end_of_text|>
+
+Q: "There are 10 apples on an apple tree.  Three fall off.  Now there are X apples."  What is this an example of?
+Options:
+(A) park
+(B) coloring book
+(C) garden center
+(D) math problem
+(E) gravity
+A:  The answer should be a topic in which the word "x" is used. A math problem is the only answer choice that contains the letter "x". Therefore, the answer is math problem (D).
+<|end_of_text|>
+
+Q: At the end of your meal what will a waiter do?
+Options:
+(A) serve food
+(B) eat
+(C) set table
+(D) serve meal
+(E) present bill
+A:  The answer must be the last thing that a waiter does after serving a meal. After a waiter serves a meal, they are supposed to bring the bill, so the answer is present bill (E).<|end_of_text|>
+
+Q: What do you get for not moving your car during the required time?
+Options:
+(A) towed
+(B) accidents
+(C) driving
+(D) getting tired
+(E) ticket
+A: 6. The answer must be the consequence of not moving your car during the required time. If you do not move your car, you are likely to get a ticket. Therefore, the answer is ticket (E).
+<|end_of_text|>
+
+Q: If someone is aloof and self-important, what is their experience when meeting people?
+Options:
+(A) stress
+(B) nervousness
+(C) smile
+(D) being bored
+(E) making new friends
+A:  The answer should be a reason why someone would meet new friends. When people meet new friends, they often feel more social. If they are aloof and self-important, they may feel more social than if they are not aloof and self-important. Therefore, the answer is being bored (D).
+<|end_of_text|>
+
+Q: Sitting to close while watching TV can cause what sort of pain?
+Options:
+(A) brain problems
+(B) laziness
+(C) get fat
+(D) headache
+(E) laughter
+A:  The answer should be a type of pain that sitting too close to the TV can cause. Sitting too close to the TV causes headaches. Therefore, the answer is headache (D).
+<|end_of_text|>
+
+Q: The man went to clown college, he had always want to run away with the what?
+Options:
+(A) circus
+(B) carnival
+(C) surprise
+(D) spoons
+(E) party
+A: 1st sentence: He went to clown college. 2nd sentence: He has always want to run away with the clowns. 3rd sentence: He has always want to run away with the circus. Therefore, the answer is circus (A).
+<|end_of_text|>
+
+Q: The new play was the go to performance of the year, all the crowds would stand and what?
+Options:
+(A) admiration
+(B) applaud
+(C) make reservations
+(D) experience
+(E) sleep
+A:  The answer must be something that a crowd would do to express appreciation or admiration. To applaud means to applaud or praise in a loud manner. Therefore, the answer is applaud (B).
+<|end_of_text|>
+
+Q: Jamie wanted to reduce her waist size, but all of her efforts failed miserably.  She continued to do what?
+Options:
+(A) gain weight
+(B) augment
+(C) dispare
+(D) make larger
+(E) expand
+A:  The answer should be the opposite of what Jamie wanted. So, all of the above choices must be eliminated because they are the opposite of what Jamie wanted. Jamie wanted to reduce her waist size. So, she is looking to gain it. She does not want to augment, dispare, make larger, or expand it. Therefore, the answer is gain weight (A).
+<|end_of_text|>
+
+Q: What is done to wood to attach something to it?
+Options:
+(A) nailed
+(B) carved
+(C) polished
+(D) eat cake
+(E) petrify
+A:  A nail is used to attach something to wood. Therefore, the answer is nailed (A).
+<|end_of_text|>
+
+Q: If you've thrown a rod you've done damage to what?
+Options:
+(A) fishing camp
+(B) hardware store
+(C) engine
+(D) your spine
+(E) sporting goods store
+A:  The answer must be an object that is damaged. When a rod is thrown, it does damage to the engine. Therefore, the answer is engine (C).
+<|end_of_text|>
+
+Q: Where is there usually a fiddle playing?
+Options:
+(A) music store
+(B) dance hall
+(C) orchestra
+(D) symphony
+(E) tennessee
+A: 1. fiddle players are used to play in orchestras. 2. The word "orchestra" means an orchestra. Therefore, the answer is orchestra (C).
+<|end_of_text|>
+
+Q: Where must one wear a white shoe?
+Options:
+(A) wedding
+(B) tennis
+(C) closet
+(D) left foot
+(E) house
+A:  The answer should be a place to wear a white shoe. If you go to a wedding, you will need a white shoe to wear. Therefore, the answer is wedding (A).
+<|end_of_text|>
+
+Q: Which region has the most famous temple?
+Options:
+(A) jerusalem
+(B) jewish community
+(C) middle east
+(D) city
+(E) mosque
+A:  The answer must be the region where there is a famous temple. The only region which has the temple to which the question refers is the Middle East. Therefore, the answer is middle east (C).
+<|end_of_text|>
+
+Q: Letters are sometimes delivered by hand through one of these.
+Options:
+(A) mail box
+(B) suitcase
+(C) front door
+(D) bowl
+(E) post office
+A: 1. The answer must deliver mail. Mail is delivered to homes. 2. The letter must be hand delivered. You can't deliver mail by suitcase. Therefore, the answer is front door (C).
+<|end_of_text|>
+
+Q: If I had a jar which was likely to spoil if left out, where would I want to put it?
+Options:
+(A) kitchen cupboard
+(B) pantry
+(C) grocery store
+(D) pantry
+(E) refrigerator
+A:  The answer must be where I want to keep my food safe, such as a refrigerator or pantry. Therefore, the answer is refrigerator (E).
+<|end_of_text|>
+
+Q: James chose to not to print the cards, because he wanted to be more personal. What type of cards did he choose, instead?
+Options:
+(A) cursive writing
+(B) hand writing
+(C) store bought
+(D) online media
+(E) hand written
+A:  The answer must be something that is done with writing. Hand written makes the most sense. Therefore, the answer is hand written (E).
+<|end_of_text|>
+
+Q: The person gave a good hands on what to show how to do the work?
+Options:
+(A) demonstration
+(B) garage
+(C) building
+(D) barn
+(E) synagogue
+A:  The answer should be something you use to show someone how to do a job. A demonstration is commonly used for this purpose. Therefore, the answer is demonstration (A).
+<|end_of_text|>
+
+Q: What could happen to a paper if you leave it outside even if it does not move?
+Options:
+(A) one material often recycled
+(B) ripped
+(C) saturated with water
+(D) one dimensional
+(E) crumpled
+A:  The answer must describe a paper which becomes a different material or which is changed somehow. If a paper becomes wet, it can be considered to have become another material. Therefore, the answer is saturated with water (C).
+<|end_of_text|>
+
+Q: What type of person typically contracts illness?
+Options:
+(A) hospital
+(B) head
+(C) sick person
+(D) elderly person
+(E) doctor's office
+A:  The answer must be a type of person who is likely to get sick. Therefore, the answer is elderly person (D).
+<|end_of_text|>
+
+Q: What group of musicians will include someone playing the cello?
+Options:
+(A) ocean
+(B) symphony
+(C) band
+(D) music store
+(E) music shop
+A: 1) A symphony includes different kinds of music, but all the musicians are playing in the same group. 2) In a band, there are a group of people who all play music together. 3) A music store is somewhere you go to buy music. 4) A music shop is the same thing, but it has other kinds of stuff for sale as well. 5) The answer must be someone who plays the cello. Therefore, the answer is symphony (B).<|end_of_text|>
+
+Q: What kind of driving leads to accidents?
+Options:
+(A) stressful
+(B) dangerous
+(C) fun
+(D) illegal
+(E) deadly
+A:  The answer must be a kind of driving that causes accidents. The most obvious of the answers that meet this definition is dangerous (B). Of course, the word dangerous can mean several things, so the answer must be dangerous in a way that makes people more likely to get into car accidents. The word dangerous also includes deadly, so the answer could be deadly (E). However, the correct answer is dangerous (B), which means that driving is not the safest way to get around.
+<|end_of_text|>
+
+Q: The skin was cut while chopping onions, where was this skin likely cut?
+Options:
+(A) good health
+(B) finger
+(C) meat
+(D) body
+(E) own family
+A:  The answer must be a place that the skin would be cut. It was chopped, not cut. Therefore, the answer is finger (B).
+<|end_of_text|>
+
+Q: He made another call, he did this all day hoping people would what well to his offer?
+Options:
+(A) hang up
+(B) respond
+(C) contact
+(D) answer
+(E) attracting ducks
+A: 1. He was calling people to get a response to his offer. 2. He was hoping that people would respond to his offer. Therefore, the answer is respond (B).
+<|end_of_text|>
+
+Q: Before getting a divorce, what did the wife feel who was doing all the work?
+Options:
+(A) harder
+(B) anguish
+(C) bitterness
+(D) tears
+(E) sadness
+A:  The answer must be a feeling which would cause someone who was doing all the work to get divorced. If someone feels bitter towards their spouse, they are likely to want a divorce. Therefore, the answer is bitterness (C).
+<|end_of_text|>
+
+Q: James was cooling off two quickly.  He would die if he didn't find some way to stop what?
+Options:
+(A) loss of heat
+(B) revenge
+(C) expansion
+(D) relaxation
+(E) calm down
+A:  James needs to cool down. To cool down, you must reduce the heat in your body. Loss of heat is therefore the answer (A).
+<|end_of_text|>
+
+Q: What is a great place to lay in the sun?
+Options:
+(A) in the basement
+(B) west
+(C) solar system
+(D) beach
+(E) beans
+A:  The answer must be a place where people can lay in the sun. The beach is a great place to lay in the sun, as it faces the west. Therefore, the answer is beach (D).
+<|end_of_text|>
+
+Q: What does sex often make happen in people?
+Options:
+(A) making love
+(B) feel good
+(C) happyness
+(D) wonderful thing
+(E) cloud judgment
+A:  The answer must be the effect that sex has on people. Sex causes many to feel good. Therefore, the answer is feel good (B).
+<|end_of_text|>
+
+Q: What does playing soccer for a long time lead to?
+Options:
+(A) excitement
+(B) fatigue
+(C) anger
+(D) hurting
+(E) getting tired
+A: 30 years is the age at which players of soccer (soccer is also known as football in Europe) usually retire. Therefore, the answer is getting tired (E).
+<|end_of_text|>
+
+Q: They decided to hash things out over drinks, after enough booze they were able to get close on a few things and what?
+Options:
+(A) reach tentative agreement
+(B) suicide
+(C) examine thing
+(D) commit murder
+(E) stay in bed
+A: 10/25, 1st hint: The answer must be what they were able to do over drinks. Drinking booze causes people to relax and become more talkative. Therefore, the answer is reach tentative agreement (A).
+10/25, 2nd hint: The words "hash" and "things out" indicate that they need to argue. In order to argue, they have to get close. Therefore, they must be discussing their relationship. Therefore, they decided to hash things out over drinks, after enough booze they were able to get close on a few things and what? reach tentative agreement (A).
+<|end_of_text|>
+
+Q: The only baggage the woman checked was a drawstring bag, where was she heading with it?
+Options:
+(A) garbage can
+(B) military
+(C) jewelry store
+(D) safe
+(E) airport
+A:  The answer must be a place where one could place luggage. An airport is the most appropriate place. Therefore, the answer is airport (E).
+<|end_of_text|>
+
+Q: When you play around with your dog they will have?
+Options:
+(A) alive
+(B) health
+(C) fun
+(D) playing dead
+(E) black
+A: 2. The answer must be a feeling for the dog after you play around with it. The answer is fun (C).
+<|end_of_text|>
+
+Q: If you aren't glad, unhappy or gloomy, what illness may you have?
+Options:
+(A) depressed
+(B) downcast
+(C) angry
+(D) unhappy
+(E) sorrowful
+A:  The answer should be an illness, and the word depressed is used to indicate a negative attitude. Therefore, the answer is depressed (A).
+<|end_of_text|>
+
+Q: How does getting paid feel?
+Options:
+(A) income tax
+(B) satisfaction
+(C) sorrow
+(D) ocean
+(E) bill collectors to happy
+A:  The answer must be a feeling one would feel upon being paid. Satisfaction makes the most sense for the answer here. Therefore, the answer is satisfaction (B).
+<|end_of_text|>
+
+Q: Traveling underwater has many dangers, such as low visibility causing what?
+Options:
+(A) disorientation
+(B) due to
+(C) meeting new people
+(D) getting somewhere
+(E) relocation
+A:  The answer should be a reason why low visibility causes problems when traveling underwater. One reason would be disorientation. Therefore, the answer is disorientation (A).
+<|end_of_text|>
+
+Q: Sally lost her kite because she wasn't careful.  She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?.
+Options:
+(A) child's hand
+(B) the last straw
+(C) hobby shop
+(D) end of line
+(E) toy store
+A:  There is only one answer which could slip out of someone's fingers and thus cause a problem. It is the end of a string. Therefore, the answer is end of line (D).
+<|end_of_text|>
+
+Q: How might a person address someone who is leaving?
+Options:
+(A) further cause
+(B) wave goodbye
+(C) attempt suicide
+(D) insulting them
+(E) thank god
+A:  The answer should be a way of addressing someone who is leaving. Saying goodbye is the correct answer. Therefore, the answer is wave goodbye (B).
+<|end_of_text|>
+
+Q: When people discover something new while chatting with friends, why are they likely to continue talking?
+Options:
+(A) agreement
+(B) to fill their time
+(C) discomfort
+(D) misunderstanding
+(E) learning about
+A: 2 or 3 will work. The answer should be something which would prevent a person from wanting to talk about something new. If a person is learning something, they are unlikely to want to stop. If a person is in discomfort, they might want to talk about it. The answer is learning about (E).<|end_of_text|>
+
+Q: What could you add a line to?
+Options:
+(A) bus stop
+(B) graph
+(C) post office
+(D) grass
+(E) play
+A:  The answer must be a place to add a line. A graph is a good place to add a line, so the answer is graph (B).
+<|end_of_text|>
+
+Q: East coast areas such as Florida are found where?
+Options:
+(A) florida
+(B) denmark
+(C) united states
+(D) map
+(E) california
+A:  The answer must be a location. Florida is a place in the United States. Therefore, the answer is united states (C).
+<|end_of_text|>
+
+Q: Joe bought a ficus.  He thought it would look good in what part of his home?
+Options:
+(A) family room
+(B) tropical forest
+(C) flower garden
+(D) movie theater
+(E) hair salon
+A:  The answer must be a part of the home that can be decorated with plants. A family room is an obvious choice. Therefore, the answer is family room (A).
+<|end_of_text|>
+
+Q: Sammy wanted to go to where the people were.  Where might he go?
+Options:
+(A) race track
+(B) populated areas
+(C) the desert
+(D) apartment
+(E) roadblock
+A:  The answer should be a place with a lot of people.  Populated areas have lots of people.  Therefore, the answer is populated areas (B).
+<|end_of_text|>
+
+Q: Where do bees congregate with red flowerS?
+Options:
+(A) trash can
+(B) honey
+(C) bouquet of flowers
+(D) rose garden
+(E) field of flowers
+A:  The answer must be a place that has red flowers. The rose garden is a place where red flowers grow. Therefore, the answer is rose garden (D).
+<|end_of_text|>
+
+Q: Ben was an alcoholic and was in an accident.  Because of his mistake, he spent 8 years somewhere. Where was he?
+Options:
+(A) prison
+(B) bridge
+(C) locked up
+(D) homeless shelter
+(E) neighbor's house
+A:  The answer must be a place where Ben had to spend eight years. As an alcoholic, he was likely locked up in prison (A) or in an institution (C). Therefore, the answer is prison (A).
+<|end_of_text|>
+
+Q: If you tell you boss your suffering from boredom they'll likely tell you to get back to what?
+Options:
+(A) dream
+(B) fiddle
+(C) watch film
+(D) see new
+(E) work
+A:  The answer must be what your boss tells you to do if you tell them you're bored. Your boss would likely want you to go back to work (E).
+<|end_of_text|>
+
+Q: The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?
+Options:
+(A) park
+(B) make time for
+(C) receive instructions
+(D) take money
+(E) leave work
+A:  The answer should be the place where drug dealers meet with each other to discuss their business. Therefore, the answer is all the dealers (D).
+<|end_of_text|>
+
+Q: What do people in the same family often share?
+Options:
+(A) brown hair
+(B) names
+(C) two eyes
+(D) will
+(E) brains
+A:  The answer should be a similarity between two members of the same family. For example, brothers often share both names and a mother, father, and birthdate. Therefore, the answer is both names (B).
+<|end_of_text|>
+

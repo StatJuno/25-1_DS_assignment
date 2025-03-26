@@ -1,0 +1,10 @@
+{
+  "gen_length": 256,
+  "max_length": 512,
+  "model_dir": "checkpoints/",
+  "model_name": "meta-llama/Llama-3.2-3B",
+  "task": "cqa",
+  "target_save": "cqa/cqa_vanilla_10/cqa_vanilla_10_0",
+  "name": "cqa_vanilla_10_0",
+  "method": "vanilla"
+}

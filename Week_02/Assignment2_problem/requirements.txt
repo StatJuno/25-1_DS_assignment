@@ -1,0 +1,8 @@
+accelerate
+transformers
+torch
+datasets
+
+trl
+huggingface_hub
+opencv-python-headless
